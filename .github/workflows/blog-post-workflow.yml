@@ -16,4 +16,4 @@ jobs:
       - name: Pull in codu posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://juanlu.is/feed.xml"
+          feed_list: "https://dev.to/feed/juanlu_sanz"
